@@ -1,0 +1,5 @@
+{
+  "name": "SmartInventory - AI & Algo Driven POS",
+  "description": "A high-performance Inventory Management System using Streamlit. Features advanced algorithms including Trie Search, EOQ Optimization, Demand Forecasting, and Fraud Detection.",
+  "requestFramePermissions": []
+}
